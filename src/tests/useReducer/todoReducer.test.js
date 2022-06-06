@@ -1,5 +1,5 @@
 import { todoReducer } from "../../components/08-useReducer/todoReducer";
-import { demoTodos } from "./../fixtures/demoTodos";
+import { demoTodos } from "../fixtures/demoTodos";
 
 
 describe('Pruebas en todoReducer', () => {
